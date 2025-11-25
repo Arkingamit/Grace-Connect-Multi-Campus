@@ -1,6 +1,6 @@
-# Grace Ahmedabad Church App
+# Grace Connect Multi Campus App  ## https://grace-church.netlify.app/
 
-Grace Ahmedabad Church App is a modern, responsive web application designed for the Grace Ahmedabad church community. It provides access to worship music, sermons, events, prayer wall, gallery, and more, helping members stay connected and engaged.
+A modern responsive web application designed for the Grace Ahmedabad church community. It provides access to worship music, sermons, events, prayer wall, gallery, and more, helping members stay connected and engaged.
 
 ## What Problem Does This App Solve?
 
@@ -109,3 +109,4 @@ For questions or support, contact the Grace Ahmedabad church team.
 ---
 
 _Where hearts unite – Grace Ahmedabad_
+
